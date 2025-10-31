@@ -140,7 +140,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="451.2,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="This is firstline" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="451.2,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="This is second line" />
     <Assign sap:VirtualizedContainerService.HintSize="451.2,174.4" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[acc]</OutArgument>
